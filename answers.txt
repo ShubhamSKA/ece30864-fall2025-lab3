@@ -1,0 +1,2 @@
+1. Pros: agile development allows for customer input to improve the product, allowing for higher customer satisfaction. It also allows for faster product development.
+   Cons: Customer input makes the project unpredictable. It also, tends to increase the scope, which can cause the original goal to be lost.
