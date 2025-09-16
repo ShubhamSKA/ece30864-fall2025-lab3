@@ -5,3 +5,7 @@
 3. Sprint planning: Define what needs to be done. Define how it will be achieved.
    Daily Scrum: daily tasks are defined. updates on what has happened, and what challenges are being faced.
    Sprint Retrospective: Discuss work complete and move incomplete work to backlog. Close sprint.
+4. Epic: Captures a large body of work that can be broken down into several smaller stories.
+   Story: A software system requirement that is expressed in a few short sentences.
+   Bug: Issue type that specifically represents a problem, defect, or error in the software.
+   Task: General issue type used for any piece of work that needs to be completed.
